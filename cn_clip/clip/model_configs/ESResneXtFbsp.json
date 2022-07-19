@@ -1,0 +1,11 @@
+{
+    "n_fft": 2048,
+    "hop_length": 561,
+    "win_length": 1654,
+    "window": "blackmanharris",
+    "normalized": true,
+    "onesided": true,
+    "spec_height":  -1,
+    "spec_width": -1,
+    "apply_attention": true
+}
